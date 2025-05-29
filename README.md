@@ -3,7 +3,7 @@ Juego De "BLACKJACK" En Java
 # Autores
 - [Ronaldo Basto Pillimur](https://github.com/RonaldB24)
 - [Juan Stevan Ordoñez Galindez](https://github.com/juanostevan)
-- [Eider David Sanchez Ceron](https://github.com/Zandybro)
+- [Eider David Sanchez Ceron](https://github.com/EiderCeron)
 - [Alexander Chantre Vernaza](https://github.com/AlexanderChantre)
 
 # Descripción del Proyecto
