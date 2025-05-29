@@ -1,4 +1,4 @@
-# 21_Blackjack
+# Blackjack
 Juego De "BLACKJACK" En Java
 # Autores
 - [Ronaldo Basto Pillimur](https://github.com/RonaldB24)
